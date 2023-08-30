@@ -1,1 +1,41 @@
-/*  your css code here. If applicable */
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the heading */
+h1 {
+    text-align: center;
+    background-color: #ffc107; /* Set your desired background color */
+    color: #333; /* Set your desired text color */
+    padding: 20px;
+}
+
+/* Style the paragraph */
+p {
+    text-align: justify;
+    margin: 20px;
+}
+
+/* Style the ordered list */
+ol {
+    margin-left: 40px;
+}
+
+/* Style the list items in the ordered list */
+ol li {
+    margin-bottom: 10px;
+}
+
+/* Style the unordered list */
+ul {
+    margin-left: 40px;
+}
+
+/* Style the list items in the unordered list */
+ul li {
+    margin-bottom: 10px;
+}
+
